@@ -33,6 +33,7 @@ export default function TextArea(props) {
     <button className="btn btn-primary mx-2" onClick={upperCase} >Convert to UpperCase</button>
     <button className="btn btn-primary mx-2" onClick={lowerCase} >Convert to LowerCase</button>
     <button className="btn btn-primary mx-2" onClick={clearText} >Clear Text</button>
+    <button className="btn btn-primary mx-2" >No Use Button</button>
     </div>
     </>
     )
